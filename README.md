@@ -1,5 +1,7 @@
 ## Mental Maze
 
+Devpost Submission: https://devpost.com/software/mental-maze
+
 ## Elevator Pitch
 Mental maze is a game where the user controls a player that navigates through a variety of randomly generated mazes. There are different levels of mazes, and within each level, there is a specific type of mob that represents a mental illness, such as an anxiety disorder. This game helps bring awareness to mental health by symbolizing the challenges of mental illnesses and by providing pop-ups of information and resources concerning the current level’s associated mental illness. The messages pop up when the character either dies or survives and beats the maze. We built this project with Godot script and the Godot open-source game engine.
 
