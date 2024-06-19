@@ -1,6 +1,7 @@
-Project name: Mental Maze
+## Mental Maze
 
-Elevator pitch: Mental maze is a game where the user controls a player that navigates through a variety of randomly generated mazes. There are different levels of mazes, and within each level, there is a specific type of mob that represents a mental illness, such as an anxiety disorder. This game helps bring awareness to mental health by symbolizing the challenges of mental illnesses and by providing pop-ups of information and resources concerning the current level’s associated mental illness. The messages pop up when the character either dies or survives and beats the maze.
+## Elevator Pitch
+Mental maze is a game where the user controls a player that navigates through a variety of randomly generated mazes. There are different levels of mazes, and within each level, there is a specific type of mob that represents a mental illness, such as an anxiety disorder. This game helps bring awareness to mental health by symbolizing the challenges of mental illnesses and by providing pop-ups of information and resources concerning the current level’s associated mental illness. The messages pop up when the character either dies or survives and beats the maze. We built this project with Godot script and the Godot open-source game engine.
 
 ## Inspiration 
 We were inspired to build the project due to the importance of raising mental health awareness and continuing to diminish any stigma towards these disorders. Very often, people may not take mental health struggles seriously or those who do struggle will feel lonely in the battle, which is why we wanted to send a message while still keeping things lighthearted and enjoyable with an interactive, user-friendly game. Not only does the game remind others that they are not alone in their mental health challenges and that their mental health truly is important and should be taken seriously, but the game also displays resources and information to lightheartedly encourage people to get the help they may need. This could even give a better understanding to those who may not recognize the seriousness of mental health issues and that it is not something that can just be pushed away or immediately solved. 
@@ -22,5 +23,3 @@ We learned a numerous variety of things, such as how the Godot game engine and g
 
 ## What’s next for Mental Maze
 If we had more time, we could develop this game more by adding more mobs that represent different mental illnesses such as depression, bipolar disorder, etc., which would lead to more stages that a player can experience and complete. Each stage could have certain fitting themes, unique mob attacks, and more. We could implement more animations, a way to track and display player statistics, and a smoother, more complex combat style with a way for players to kill mobs too. Overall, this was a wonderful experience that taught us many valuable lessons and will prepare us well for our future ambitions.
-
-We built this project with Godot script and the Godot open-source game engine.
