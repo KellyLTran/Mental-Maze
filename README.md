@@ -5,7 +5,7 @@
 ---
 
 ### 🎯 Elevator Pitch
-Uncertain paths, confining walls, and inescapable dead ends–like a maze, mental health struggles can lead to feeling lost, trapped, and hopeless. By blending lighthearted, interactive gameplay with a powerful message, Mental Maze serves as both a game and a conversation starter to encourage greater awareness, empathy, and access to resources.
+Uncertain paths, confining walls, and inescapable dead ends—like a maze, mental health challenges can be difficult to navigate and make us feel lost, trapped, and alone. By blending lighthearted, interactive gameplay with a powerful message, Mental Maze serves as both a game and a conversation starter to encourage greater awareness, empathy, and access to resources.
 Mental maze is a game where the user controls a player that navigates through a variety of randomly generated mazes. There are different levels of mazes, and within each level, there is a specific type of mob that represents a mental illness, such as an anxiety disorder. This game helps bring awareness to mental health by symbolizing the challenges of mental illnesses and by providing pop-ups of information and resources concerning the current level’s associated mental illness. The messages pop up when the character either dies or survives and beats the maze. We built this project with Godot script and the Godot open-source game engine. 
 
 ### 💡 Inspiration 
