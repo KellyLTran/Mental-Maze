@@ -1,6 +1,6 @@
 # 🎮 Mental Maze
 
-**Devpost Submission**: [Mental Maze on Devpost](https://devpost.com/software/mental-maze)
+[Mental Maze on Devpost](https://devpost.com/software/mental-maze)
 
 ---
 
